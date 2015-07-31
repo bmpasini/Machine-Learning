@@ -1,0 +1,2 @@
+- Implement Gradient Descent for solving linear regression and regression with multiple variables.
+- Learn basics of MATLAB.
